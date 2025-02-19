@@ -13,5 +13,5 @@
 
 # Note from creator
  Please do not publish this anywhere without my permission even if you modify the file.
- If you have any ideas that you want to add to the script or publish modified version then just DM me on discord "_remiix_"
+ If you have any ideas that you want to add to the script or publish modified version then just DM me on discord "\_remiix_"
  I would be very happy if you followed this policy <3
